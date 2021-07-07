@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mitchell Whyte</title>
-    <link>https://mitchellwhyte.github.io/tags/</link>
+    <link>https://mitchellwhyte.dev/tags/</link>
     <description>Recent content in Tags on Mitchell Whyte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 07 Jul 2021 15:34:59 +1000</lastBuildDate><atom:link href="https://mitchellwhyte.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jul 2021 15:34:59 +1000</lastBuildDate><atom:link href="https://mitchellwhyte.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>untagged</title>
-      <link>https://mitchellwhyte.github.io/tags/untagged/</link>
+      <link>https://mitchellwhyte.dev/tags/untagged/</link>
       <pubDate>Wed, 07 Jul 2021 15:34:59 +1000</pubDate>
       
-      <guid>https://mitchellwhyte.github.io/tags/untagged/</guid>
+      <guid>https://mitchellwhyte.dev/tags/untagged/</guid>
       <description></description>
     </item>
     
