@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 07 Jul 2021 14:52:59 +1000</lastBuildDate><atom:link href="https://mitchellwhyte.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jul 2021 15:34:59 +1000</lastBuildDate><atom:link href="https://mitchellwhyte.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Meme</title>
-      <link>https://mitchellwhyte.github.io/posts/meme/</link>
-      <pubDate>Wed, 07 Jul 2021 14:52:59 +1000</pubDate>
+      <title>Hello</title>
+      <link>https://mitchellwhyte.github.io/posts/hello/</link>
+      <pubDate>Wed, 07 Jul 2021 15:34:59 +1000</pubDate>
       
-      <guid>https://mitchellwhyte.github.io/posts/meme/</guid>
-      <description>hello</description>
+      <guid>https://mitchellwhyte.github.io/posts/hello/</guid>
+      <description>Hi, welcome to my blog. I&amp;rsquo;m mainly going to post about various topics I encounter relating to site reliability engineering for learning purposes. :&amp;ndash;)</description>
     </item>
     
   </channel>
