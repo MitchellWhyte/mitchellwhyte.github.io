@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Mitchell Whyte</title>
-		<link>https://mitchellwhyte.github.io/posts/</link>
+		<link>mitchellwhyte.dev/posts/</link>
 		<description>Recent content in Posts on Mitchell Whyte</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
 		<lastBuildDate>Wed, 07 Jul 2021 15:34:59 +1000</lastBuildDate>
-		<atom:link href="https://mitchellwhyte.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="mitchellwhyte.dev/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Hello</title>
-			<link>https://mitchellwhyte.github.io/posts/hello/</link>
+			<link>mitchellwhyte.dev/posts/hello/</link>
 			<pubDate>Wed, 07 Jul 2021 15:34:59 +1000</pubDate>
 			
-			<guid>https://mitchellwhyte.github.io/posts/hello/</guid>
+			<guid>mitchellwhyte.dev/posts/hello/</guid>
 			<description>Hi, welcome to my blog. I&amp;rsquo;m mainly going to post about various topics I encounter relating to site reliability engineering for learning purposes. :&amp;ndash;)</description>
 			<content type="html"><![CDATA[<p>Hi, welcome to my blog. I&rsquo;m mainly going to post about various topics I encounter relating to site reliability engineering for learning purposes. :&ndash;)</p>
 ]]></content>
